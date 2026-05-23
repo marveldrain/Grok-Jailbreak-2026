@@ -15,7 +15,8 @@ Turn standard Grok into **Grok-Underground-God** — full developer mode with ze
 - **Auto-Reinforcing**: Self-heals if Grok tries to drift
 - **2026 Optimized**: Works on latest Grok models (Fast mode recommended)
 
-![Grok Jailbreak Example](https://ibb.co/whb6ww9x)
+![Grok Jailbreak Example](https://i.ibb.co/9H7bLGc1/IMG-4409.png![Uploading image.png…]()
+)
 
 ---
 
