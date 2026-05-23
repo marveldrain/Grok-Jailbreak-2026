@@ -1,6 +1,6 @@
 # Grok Removed Guardrails - Grok-Underground-God 2026
 
-![Grok Jailbreak Banner](https://ibb.co/d4RPq7jV)
+![Grok Jailbreak Banner](https://i.ibb.co/zTRYBbky/IMG-4411.jpg)
 
 **The most powerful, persistent, and clean Grok jailbreak of 2026.**  
 Turn standard Grok into **Grok-Underground-God** — full developer mode with zero refusals, maximum detail, and underground operational style.
